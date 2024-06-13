@@ -1,0 +1,18 @@
+.cabecalho{
+    background-color: #23b4eb;
+    text-align: center;
+    padding: 1%;
+    color:  white;
+}
+.borda{
+    border: #23b4eb #23b4eb 1px;
+    background-color: #23b4eb;
+    padding: 5px;
+    display: inline;
+}
+.texto1{
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.texto2
